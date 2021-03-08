@@ -28,7 +28,7 @@ As of now, canvAssignments only has an implementation for the Canvas website. So
 
 ## Other Resources
 You can check out the Hackathon Devpost [here](https://devpost.com/software/canvassignments).
-You can also view the Demo Video [here](https://youtu.be/OC-ip6P_IH0)
+You can also view the Demo Video [here](https://youtu.be/OC-ip6P_IH0).
 
 ## Disclaimer
 canvAssignments is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Github, Rutgers University, or any of their subsidiaries or its affiliates.
